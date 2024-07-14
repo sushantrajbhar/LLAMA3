@@ -1,0 +1,8 @@
+langchain
+requests
+torch
+transformers
+einops 
+accelerate
+bitsandbytes 
+bs4
